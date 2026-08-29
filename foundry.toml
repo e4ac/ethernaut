@@ -1,0 +1,7 @@
+[profile.default]
+libs = ["lib"]
+out = "out"
+src = "src"
+
+[rpc_endpoints]
+sepolia = "${RPC_URL}"

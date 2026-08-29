@@ -1,0 +1,8 @@
+.env
+.env.*
+.ignore/
+.logs/
+broadcast/
+cache/
+docs/
+out/
